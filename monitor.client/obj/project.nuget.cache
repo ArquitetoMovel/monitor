@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "BlZjtlf32OrUzgAPNE0/b6um+bdna51NMXzbf1mUEA/lAQmRObvAhosLQQNFs24KeBwsY8+x9cpCuihfIl/ZiA==",
+  "success": true,
+  "projectFilePath": "D:\\Develop\\monitor\\monitor.client\\monitor.client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alexa\\.nuget\\packages\\rabbitmq.client\\6.2.1\\rabbitmq.client.6.2.1.nupkg.sha512",
+    "C:\\Users\\alexa\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\alexa\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
